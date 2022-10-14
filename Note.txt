@@ -1,0 +1,17 @@
+# Start Server Using node server.js in your terminal and paste 1)'s link in browser 
+
+1) Index page(GET) => http://localhost:3000/
+
+2) Login(GET) => http://localhost:3000/users/login
+
+3) Register(GET) => http://localhost:3000/users/register
+
+4) Dashboard(GET) => http://localhost:3000/users/dashboard
+
+5) Logout(GET) => http://localhost:3000/users/logout
+
+6) Login(POST) => http://localhost:3000/users/login
+
+7) Register(POST) => http://localhost:3000/users/register
+
+Above all are endpoints to access backend api's.
